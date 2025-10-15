@@ -1,0 +1,5 @@
+streamlit==1.44.1
+# Library yang digunakan untuk perhitungan data dalam kode
+# Jika Anda berencana menggunakan pandas atau numpy, sebaiknya disertakan
+# numpy==2.1.3 
+# pandas==2.2.3
